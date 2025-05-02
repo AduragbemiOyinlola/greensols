@@ -1,6 +1,10 @@
 # **GREENSOL DATA SCIENCE INTERN ASSESSMENT REPORT**
 ---
 
+The credit scoring assessment project explores the use of data science techniques to evaluate individual's credit worthiness based on historical customer data.
+
+---
+
 ### **Assumption(s) made**: 
 - I assumed the *transaction_date* to be the date the user made the payment or transaction.
 - I assumed the *due_date* to be the date when the payment was expected.
